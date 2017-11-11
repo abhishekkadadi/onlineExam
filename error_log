@@ -1,0 +1,757 @@
+[07-Apr-2017 23:14:05] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ci/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:29:45] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:29:46] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:29:47] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:29:53] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:29:59] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:02] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:24] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:26] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:33] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:42] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:30:45] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/ceiit/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:31:28] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:19] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:22] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:23] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:24] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:32] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:33] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:38] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:40] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:41] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:41] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:42] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:48] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:32:51] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:33:28] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:33:31] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:33:40] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:33:51] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:33:53] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/imagick.so' - /usr/php/54/usr/lib64/php/modules/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/http.so' - /usr/php/54/usr/lib64/php/modules/http.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20100525, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/mailparse.so' - /usr/php/54/usr/lib64/php/modules/mailparse.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oauth.so' - /usr/php/54/usr/lib64/php/modules/oauth.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/oci8.so' - /usr/php/54/usr/lib64/php/modules/oci8.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/php/54/usr/lib64/php/modules/uploadprogress.so' - /usr/php/54/usr/lib64/php/modules/uploadprogress.so: undefined symbol: zend_ini_string_ex in Unknown on line 0
+[08-Apr-2017 03:34:07] PHP Parse error:  syntax error, unexpected T_CONST in /home1/mahaonli/public_html/system/core/CodeIgniter.php on line 58
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:34:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:36 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:35:54 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:36:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:16 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:39:17 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:42:52 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:44:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:17 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:48:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:50:53 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:56:31 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:57:29 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 03:58:14 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:18 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:00:20 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:12 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:01:56 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:02:42 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:21 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:27 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:04:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:06:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:08:34 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:33 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:44 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:48 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:09:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:02 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:10:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:26 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:11:28 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:16:19 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:21:59 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:02 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:08 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:22:16 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:18 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:19 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:30 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:23:31 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:25:45 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:28:54 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:38:13 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:03 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:05 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:10 America/Denver] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:15 America/Denver] PHP Fatal error:  Call to a member function result() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/application/models/Student_login_model.php on line 8
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:40 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:42 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:39:51 America/Denver] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:22 America/Denver] PHP Fatal error:  Call to a member function result() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/application/models/Student_login_model.php on line 8
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:40:29 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:41:45 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'http' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'magickwand' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'mailparse' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'OAuth' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'oci8' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Warning:  Module 'uploadprogress' already loaded in Unknown on line 0
+[08-Apr-2017 04:42:23 America/Denver] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[08-Apr-2017 04:43:13 America/Denver] PHP Fatal error:  Call to a member function result() on a non-object in /home6/whitecod/public_html/demo/OnlineExamDemo/application/models/Student_login_model.php on line 8
